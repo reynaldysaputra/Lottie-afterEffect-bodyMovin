@@ -4,10 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Basic from './01_basic/apps';
+import MountPlain from './02_mountPlain/apps';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Basic />
+    <MountPlain />
   </React.StrictMode>,
   document.getElementById('root')
 );
