@@ -24,6 +24,7 @@ function MountPlain() {
                width={700}
             />
          </div>
+
       </Fragment>
    )
 }
