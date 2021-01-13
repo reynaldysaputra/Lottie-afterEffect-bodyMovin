@@ -2,7 +2,7 @@ import React, { Fragment , useState} from 'react';
 import style from './style.module.css';
 import mount1 from '../img/mount1.jpeg';
 import Lottie from 'lottie-react-web'
-import desktopPlain from './desktopPlainAfterEffect.json';
+import desktopPlain from './data.json';
 
 function MountPlain() {
    const [isPlay, setPlay] = useState(false);
@@ -12,7 +12,6 @@ function MountPlain() {
       loop: true,
       autoplay: true, 
       animationData: desktopPlain,
-      speed : 10
     };
 
    return(
