@@ -1,0 +1,892 @@
+[
+  {
+    "type": "Artboard",
+    "aeuxVersion": 0.66,
+    "hostApp": "Figma",
+    "name": "Frame 1",
+    "bgColor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "size": [
+      384,
+      500
+    ],
+    "imageUrls": [],
+    "layerCount": 9
+  },
+  {
+    "type": "Path",
+    "name": "Ellipse 3",
+    "id": "10:10",
+    "frame": {
+      "width": 449.8084411621094,
+      "height": 345.8478698730469,
+      "x": -133.7974090576172,
+      "y": 58.77400207519531
+    },
+    "absoluteBoundingBox": {
+      "x": 1991,
+      "y": -579,
+      "width": 548.213623046875,
+      "height": 567.3958740234375
+    },
+    "fill": [
+      {
+        "type": "fill",
+        "enabled": true,
+        "color": [
+          0.8166666626930237,
+          0.885185182094574,
+          1,
+          1
+        ],
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          192,
+          345.848
+        ],
+        [
+          "384",
+          "172.961"
+        ],
+        [
+          192,
+          0.0749322
+        ],
+        [
+          0,
+          172.961
+        ]
+      ],
+      "inTangents": [
+        [
+          -106.0387,
+          0
+        ],
+        [
+          191.70600000000002,
+          -58.07000000000001
+        ],
+        [
+          49.120000000000005,
+          -4.8855522
+        ],
+        [
+          0,
+          -95.4822
+        ]
+      ],
+      "outTangents": [
+        [
+          106.03899999999999,
+          0
+        ],
+        [
+          -191.706,
+          58.071
+        ],
+        [
+          -49.120000000000005,
+          4.8855578
+        ],
+        [
+          0,
+          95.483
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": -52.497,
+    "flip": [
+      100,
+      100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Path",
+    "name": "Ellipse 2",
+    "id": "10:9",
+    "frame": {
+      "width": 449.8084411621094,
+      "height": 345.8478698730469,
+      "x": -27.140304565429688,
+      "y": 14.39190673828125
+    },
+    "absoluteBoundingBox": {
+      "x": 2197,
+      "y": -566,
+      "width": 349.52783203125,
+      "height": 452.6316833496094
+    },
+    "fill": [
+      {
+        "type": "fill",
+        "enabled": true,
+        "color": [
+          0.6078431606292725,
+          0.7529411911964417,
+          0.9960784316062927,
+          1
+        ],
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          192,
+          345.848
+        ],
+        [
+          "384",
+          "172.961"
+        ],
+        [
+          192,
+          0.0749322
+        ],
+        [
+          0,
+          172.961
+        ]
+      ],
+      "inTangents": [
+        [
+          -106.0387,
+          0
+        ],
+        [
+          191.70600000000002,
+          -58.07000000000001
+        ],
+        [
+          49.120000000000005,
+          -4.8855522
+        ],
+        [
+          0,
+          -95.4822
+        ]
+      ],
+      "outTangents": [
+        [
+          106.03899999999999,
+          0
+        ],
+        [
+          -191.706,
+          58.071
+        ],
+        [
+          -49.120000000000005,
+          4.8855578
+        ],
+        [
+          0,
+          95.483
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 89.53,
+    "flip": [
+      -100,
+      -100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Path",
+    "name": "Ellipse 4",
+    "id": "10:11",
+    "frame": {
+      "width": 661.79150390625,
+      "height": 737.2924194335938,
+      "x": -67.89569091796875,
+      "y": -119.64620971679688
+    },
+    "absoluteBoundingBox": {
+      "x": 2038.955078125,
+      "y": -642,
+      "width": 796.0899658203125,
+      "height": 728
+    },
+    "fill": [
+      {
+        "type": "fill",
+        "enabled": true,
+        "color": [
+          0.21176470816135406,
+          0.5764706134796143,
+          0.8392156958580017,
+          1
+        ],
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          284.567,
+          737.293
+        ],
+        [
+          "569.134",
+          "381.572"
+        ],
+        [
+          -85.1113,
+          284.567
+        ],
+        [
+          578.031,
+          1.39064
+        ]
+      ],
+      "inTangents": [
+        [
+          -157.162,
+          0
+        ],
+        [
+          272.471,
+          -177.388
+        ],
+        [
+          496.1323,
+          -147.75300000000001
+        ],
+        [
+          null,
+          -6.39064
+        ]
+      ],
+      "outTangents": [
+        [
+          157.16199999999998,
+          0
+        ],
+        [
+          -272.47,
+          177.38699999999994
+        ],
+        [
+          270.22429999999997,
+          -126.45400000000001
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 84.62,
+    "flip": [
+      -100,
+      -100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Path",
+    "name": "Ellipse 1",
+    "id": "10:8",
+    "frame": {
+      "width": 458.55328369140625,
+      "height": 525.5858764648438,
+      "x": -26.27642822265625,
+      "y": -49.049835205078125
+    },
+    "absoluteBoundingBox": {
+      "x": 2093.869384765625,
+      "y": -566.1613159179688,
+      "width": 566.2616577148438,
+      "height": 505.808837890625
+    },
+    "fill": [
+      {
+        "type": "fill",
+        "enabled": true,
+        "color": [
+          0.21176470816135406,
+          0.5764706134796143,
+          0.8392156958580017,
+          1
+        ],
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          192,
+          525.586
+        ],
+        [
+          "384",
+          "272.842"
+        ],
+        [
+          192,
+          20.0974
+        ],
+        [
+          0,
+          272.842
+        ]
+      ],
+      "inTangents": [
+        [
+          -106.0387,
+          0
+        ],
+        [
+          212.47900000000004,
+          -38.71599999999998
+        ],
+        [
+          166.877,
+          83.88059999999999
+        ],
+        [
+          0,
+          -139.587
+        ]
+      ],
+      "outTangents": [
+        [
+          106.03899999999999,
+          0
+        ],
+        [
+          -212.479,
+          38.71500000000003
+        ],
+        [
+          -166.8773,
+          -83.88069999999999
+        ],
+        [
+          0,
+          139.586
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 84.62,
+    "flip": [
+      -100,
+      -100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Image",
+    "name": "me 1",
+    "id": "11-6",
+    "frame": {
+      "width": 98,
+      "height": 119,
+      "x": 27,
+      "y": 17
+    },
+    "isVisible": true,
+    "opacity": 100,
+    "blendMode": "BlendingMode.NORMAL"
+  },
+  {
+    "type": "Ellipse",
+    "name": "Ellipse 5",
+    "id": "11:7",
+    "frame": {
+      "width": 13,
+      "height": 13,
+      "x": 76,
+      "y": 142
+    },
+    "absoluteBoundingBox": {
+      "x": 2250,
+      "y": -385,
+      "width": 13,
+      "height": 13
+    },
+    "fill": [
+      {
+        "type": "fill",
+        "enabled": true,
+        "color": [
+          0.4987500011920929,
+          0.8999999761581421,
+          0.5388749837875366,
+          1
+        ],
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          6.5,
+          13
+        ],
+        [
+          "13",
+          "6.5"
+        ],
+        [
+          6.5,
+          0
+        ],
+        [
+          0,
+          6.5
+        ]
+      ],
+      "inTangents": [
+        [
+          -3.58985,
+          0
+        ],
+        [
+          0,
+          3.5899
+        ],
+        [
+          3.5899,
+          0
+        ],
+        [
+          0,
+          -3.58985
+        ]
+      ],
+      "outTangents": [
+        [
+          3.5899,
+          0
+        ],
+        [
+          0,
+          -3.58985
+        ],
+        [
+          -3.58985,
+          0
+        ],
+        [
+          0,
+          3.5899
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 0,
+    "flip": [
+      100,
+      100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Path",
+    "name": "Polygon 1",
+    "id": "12:2",
+    "frame": {
+      "width": 134,
+      "height": 180,
+      "x": 327,
+      "y": 17
+    },
+    "absoluteBoundingBox": {
+      "x": 2501,
+      "y": -510,
+      "width": 134,
+      "height": 180
+    },
+    "fill": [
+      {
+        "type": "gradient",
+        "startPoint": [
+          81.99999331325841,
+          -30.000007218474693
+        ],
+        "endPoint": [
+          -0.000001658996083619968,
+          89.99999099704982
+        ],
+        "gradType": 2,
+        "gradient": {
+          "length": 2,
+          "points": [
+            {
+              "color": [
+                0.22083336114883423,
+                1,
+                0.9532500505447388,
+                1
+              ],
+              "midPoint": 0.5,
+              "opacity": 1,
+              "rampPoint": 0
+            },
+            {
+              "color": [
+                0.21176469326019287,
+                0.5764705538749695,
+                0.8392156958580017,
+                0
+              ],
+              "midPoint": 0.5,
+              "opacity": 0,
+              "rampPoint": 1
+            }
+          ]
+        },
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          80.781,
+          32.0634
+        ],
+        [
+          "53.219",
+          "32.0634"
+        ],
+        [
+          17.9692,
+          114.077
+        ],
+        [
+          "31.7502",
+          "135"
+        ],
+        [
+          102.25,
+          135
+        ],
+        [
+          "116.031",
+          "114.077"
+        ]
+      ],
+      "inTangents": [
+        [
+          0,
+          0
+        ],
+        [
+          5.201699999999995,
+          -12.102500000000003
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -10.775400000000001,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          4.2549999999999955,
+          9.900000000000006
+        ]
+      ],
+      "outTangents": [
+        [
+          -5.201700000000002,
+          -12.102500000000003
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -4.255000000000001,
+          9.900000000000006
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          10.775000000000006,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 0,
+    "flip": [
+      100,
+      100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Path",
+    "name": "Polygon 2",
+    "id": "12:5",
+    "frame": {
+      "width": 134,
+      "height": 180,
+      "x": -80,
+      "y": 320
+    },
+    "absoluteBoundingBox": {
+      "x": 2094,
+      "y": -207,
+      "width": 134,
+      "height": 180
+    },
+    "fill": [
+      {
+        "type": "gradient",
+        "startPoint": [
+          -66.99999769017289,
+          -13.999998174336554
+        ],
+        "endPoint": [
+          0.0000029063883033586535,
+          89.99999374180243
+        ],
+        "gradType": 2,
+        "gradient": {
+          "length": 2,
+          "points": [
+            {
+              "color": [
+                0.22083336114883423,
+                1,
+                0.9532500505447388,
+                1
+              ],
+              "midPoint": 0.5,
+              "opacity": 1,
+              "rampPoint": 0
+            },
+            {
+              "color": [
+                0.21176469326019287,
+                0.5764705538749695,
+                0.8392156958580017,
+                0
+              ],
+              "midPoint": 0.5,
+              "opacity": 0,
+              "rampPoint": 1
+            }
+          ]
+        },
+        "opacity": 100,
+        "blendMode": 1
+      }
+    ],
+    "stroke": [],
+    "isVisible": true,
+    "path": {
+      "points": [
+        [
+          80.781,
+          32.0634
+        ],
+        [
+          "53.219",
+          "32.0634"
+        ],
+        [
+          17.9692,
+          114.077
+        ],
+        [
+          "31.7502",
+          "135"
+        ],
+        [
+          102.25,
+          135
+        ],
+        [
+          "116.031",
+          "114.077"
+        ]
+      ],
+      "inTangents": [
+        [
+          0,
+          0
+        ],
+        [
+          5.201699999999995,
+          -12.102500000000003
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -10.775400000000001,
+          0
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          4.2549999999999955,
+          9.900000000000006
+        ]
+      ],
+      "outTangents": [
+        [
+          -5.201700000000002,
+          -12.102500000000003
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          -4.255000000000001,
+          9.900000000000006
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          10.775000000000006,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "closed": true
+    },
+    "roundness": 0,
+    "opacity": 100,
+    "rotation": 0,
+    "flip": [
+      100,
+      100
+    ],
+    "blendMode": "BlendingMode.NORMAL",
+    "booleanOperation": 3,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  },
+  {
+    "type": "Text",
+    "kind": "Area",
+    "name": "Hello",
+    "stringValue": "Hello ",
+    "id": "12:7",
+    "frame": {
+      "width": 103.02,
+      "height": 38,
+      "x": 191.5,
+      "y": 218.421875
+    },
+    "isVisible": true,
+    "opacity": 100,
+    "textColor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "fill": null,
+    "stroke": [],
+    "blendMode": "BlendingMode.NORMAL",
+    "fontName": "Staatliches-Regular",
+    "fontSize": 30,
+    "trackingAdjusted": 0,
+    "tracking": 0,
+    "justification": 2,
+    "lineHeight": 35.15625,
+    "flip": [
+      100,
+      100
+    ],
+    "rotation": 0,
+    "shadow": null,
+    "innerShadow": null,
+    "blur": null
+  }
+]
